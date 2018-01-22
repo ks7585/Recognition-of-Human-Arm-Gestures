@@ -20,4 +20,6 @@ Psychtoolbox code refers to the code that helped in collecting data.
 The automated code includes the availability of models, but these models are not included as those were created specific to the subject.
 
 for further details please contact
-as7933@rit.edu
+as7933@rit.edu - Akash Saha
+sxr3455@rit.edu - Srinath Ramachandran
+ks7585@rit.edu  - Karthik Sivarama Krishnan
