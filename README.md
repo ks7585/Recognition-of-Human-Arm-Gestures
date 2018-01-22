@@ -6,7 +6,7 @@ There are specifically 4 files namely
   3. Automated Code
   4. Psychtollbox Code
 
-
+# Publication Link - http://ieeexplore.ieee.org/document/8250154/
 The Image folder contains all the images that were shown to the subject when the data was 
 being collected
 
@@ -20,6 +20,6 @@ Psychtoolbox code refers to the code that helped in collecting data.
 The automated code includes the availability of models, but these models are not included as those were created specific to the subject.
 
 for further details please contact
-as7933@rit.edu - Akash Saha
-sxr3455@rit.edu - Srinath Ramachandran
-ks7585@rit.edu  - Karthik Sivarama Krishnan
+Akash Saha (as7933@rit.edu) ; 
+Srinath Ramachandran (sxr3455@rit.edu) ; 
+Karthik Sivarama Krishnan (ks7585@rit.edu)
