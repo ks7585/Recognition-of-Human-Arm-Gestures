@@ -24,4 +24,5 @@ Srinath Ramachandran (sxr3455@rit.edu) ;
 Karthik Sivarama Krishnan (ks7585@rit.edu)
 
 
-# Publication Link - http://ieeexplore.ieee.org/document/8250154/
+# Publication Link  
+http://ieeexplore.ieee.org/document/8250154/
