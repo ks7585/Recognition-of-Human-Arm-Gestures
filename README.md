@@ -6,7 +6,6 @@ There are specifically 4 files namely
   3. Automated Code
   4. Psychtollbox Code
 
-# Publication Link - http://ieeexplore.ieee.org/document/8250154/
 The Image folder contains all the images that were shown to the subject when the data was 
 being collected
 
@@ -23,3 +22,6 @@ for further details please contact
 Akash Saha (as7933@rit.edu) ; 
 Srinath Ramachandran (sxr3455@rit.edu) ; 
 Karthik Sivarama Krishnan (ks7585@rit.edu)
+
+
+# Publication Link - http://ieeexplore.ieee.org/document/8250154/
