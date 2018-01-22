@@ -2,7 +2,7 @@
 Gesture recognition using MATLAB
 There are specifically 4 files namely
   1. Images
-  2. Myo Arm Band COdes
+  2. Myo Arm Band Codes
   3. Automated Code
   4. Psychtollbox Code
 
