@@ -1,20 +1,20 @@
 # Recognition-of-Human-Arm-Gestures
 Gesture recognition using MATLAB
-There are specifically 4 files namely
+There are specifically 4 files, namely
   1. Images
-  2. Myo Arm Band Codes
+  2. Myo Armband Codes
   3. Automated Code
-  4. Psychtollbox Code
+  4. Psychtoolbox Code
 
 The Image folder contains all the images that were shown to the subject when the data was 
-being collected
+being collected.
 
-The Myo Arm Band Code folder conatins all the Necessary codes required to connect the myo arm bad 
-to the Matlab - Coded by Celal Savur (MABL, RIT)
+The Myo Arm Band Code folder conatins all the Necessary codes required to connect the myo armband 
+to MATLAB - Coded by Celal Savur (MABL, RIT)
 
-Automated code refers to the code that was being used real time to detect the gesture.
+Automated code refers to the code that was being used real-time to detect the gesture.
 
-Psychtoolbox code refers to the code that helped in collecting data.
+Psychtoolbox code refers to the code that was constructed to perform data collection.
 
 The automated code includes the availability of models, but these models are not included as those were created specific to the subject.
 
